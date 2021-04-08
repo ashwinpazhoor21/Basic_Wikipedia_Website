@@ -1,4 +1,4 @@
-# Basic Wikipedia
+# Basic Wikipedia Website
 
 Description: 
 This is my wikipedia project. Information about each file below. 
