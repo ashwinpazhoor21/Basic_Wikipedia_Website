@@ -1,0 +1,2 @@
+#Football
+Football, called U.S. and Canadian football, and also known as gridiron, is a team sport played by two teams of eleven players on a rectangular field with goalposts at each end. At the end of a game the team with the most points wins.

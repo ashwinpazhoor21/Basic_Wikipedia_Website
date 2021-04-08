@@ -1,0 +1,2 @@
+##Soccer
+A game played on a field between two teams of 11 players each with the objective to propel a soccer ball into the opponent's goal by kicking or by hitting it with any part of the body except the hands and arms.

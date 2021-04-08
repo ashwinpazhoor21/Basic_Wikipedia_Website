@@ -1,0 +1,2 @@
+##Basketball
+Basketball is a competition for teams. Two teams of five players each attempt to score by shooting a ball over a hoop 10 feet above ground. The game is played on a rectangular floor called the court, and at either end, there is a hoop. The tribunal is divided by the mid-court line into two main parts.

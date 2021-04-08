@@ -1,0 +1,2 @@
+##Baseball
+Baseball is a game of bat-and-ball played between two opposing teams taking turns to hit and field. A player on the fielding side, named the catcher, throws a ball that a player on the batting team is attempting to strike with a bat.
