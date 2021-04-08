@@ -1,7 +1,7 @@
-# Project1: Wiki
+# Basic Wikipedia
 
 Description: 
-This is my project 1 wiki for CS50’s Web Programming with Python and JavaScript. The description of what is in each file is below along with the description video link. 
+This is my wikipedia project. Information about each file below. 
 
 *vs code* : This file contains all the visual studio code editor settings to run this program.
 
@@ -16,8 +16,3 @@ This is my project 1 wiki for CS50’s Web Programming with Python and JavaScrip
 *entries*: The entires folder is used to store all of the encyclopedia entires that were created from my application. 
 
 *wiki*: The wiki folder is used to import more django features into the website and it also contains the settings to run the application.
-
-
-## Demonstration Video Link
-
-Youtube link: https://youtu.be/Ji__i0uDVY8
